@@ -33,7 +33,7 @@ Este programa en Python permite:
     
     -   Permite ingresar valores de resistencia (R) y capacitancia (C) en diferentes escalas (pF, nF, µF, mF).
         
-    -   Calcula automáticamente la frecuencia de corte:  $$ f_c = \dfrac{1}{2 \pi R C} $$
+    -   Calcula automáticamente la frecuencia de corte: fc = 1 / (2 · π · R · C)
 
     -   Soporta filtros **pasa bajo** y **pasa alto**.
         
